@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbbeaf41-4e68-41cd-b5c3-8cabcd82e028" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../04_函数/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../04_函数/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,18 +12,23 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/05_$hm_03_.coverage" NAME="hm_03_列表的数据统计 Coverage Results" MODIFIED="1538189913829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/05_$hm_17_.coverage" NAME="hm_17_字符串的查找和替换 Coverage Results" MODIFIED="1538221058237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/05_$hm_04_.coverage" NAME="hm_04_列表排序 Coverage Results" MODIFIED="1538190580287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/05_$hm_21_.coverage" NAME="hm_21_遍历字典的列表 Coverage Results" MODIFIED="1538303127662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/05_$hm_02_del.coverage" NAME="hm_02_del关键字 Coverage Results" MODIFIED="1538189597873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/05_$hm_10_.coverage" NAME="hm_10_字典基本使用 Coverage Results" MODIFIED="1538212602428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/05_$hm_15_.coverage" NAME="hm_15_字符串统计操作 Coverage Results" MODIFIED="1538218819772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/05_$hm_11_.coverage" NAME="hm_11_字典的其他操作 Coverage Results" MODIFIED="1538217142659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/05_$hm_09_.coverage" NAME="hm_09_字典的定义 Coverage Results" MODIFIED="1538212176732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/05_$hm_16_.coverage" NAME="hm_16_字符串判断方法 Coverage Results" MODIFIED="1538219542626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/05_$hm_16_.coverage" NAME="hm_16_字符串判断方法 Coverage Results" MODIFIED="1538219656189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/05_$hm_07_.coverage" NAME="hm_07_元组遍历 Coverage Results" MODIFIED="1538210907901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/05_$hm_08_.coverage" NAME="hm_08_格式化字符串 Coverage Results" MODIFIED="1538211264365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/05_$hm_12_.coverage" NAME="hm_12_字典的遍历 Coverage Results" MODIFIED="1538217345233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/05_$hm_01_.coverage" NAME="hm_01_列表基本使用 Coverage Results" MODIFIED="1538187685539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/05_$hm_19_.coverage" NAME="hm_19_字符串拆分和拼接 Coverage Results" MODIFIED="1538277436712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/05_$hm_14_.coverage" NAME="hm_14_字符串定义和遍历 Coverage Results" MODIFIED="1538218717271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/05_$hm_18_.coverage" NAME="hm_18_字符串文本对齐 Coverage Results" MODIFIED="1538262584546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/05_$hm_20_for.coverage" NAME="hm_20_for语法演练 Coverage Results" MODIFIED="1538302748621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/05_$hm_13_.coverage" NAME="hm_13_字典的应用场景 Coverage Results" MODIFIED="1538217613135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/05_$hm_06_.coverage" NAME="hm_06_元组基本使用 Coverage Results" MODIFIED="1538210904995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -31,31 +36,31 @@
     <session id="1132832110">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="16" />
+          <entry key="py" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="16" />
+          <entry key="Python" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="143" />
-          <entry key="py" value="3634" />
+          <entry key="Python Console" value="290" />
+          <entry key="py" value="5101" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="3777" />
+          <entry key="Python" value="5391" />
         </counts>
       </usages-collector>
     </session>
@@ -63,10 +68,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hm_16_字符串判断方法.py">
+        <entry file="file://$PROJECT_DIR$/hm_21_遍历字典的列表.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="456">
+              <caret line="19" lean-forward="true" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -102,6 +107,11 @@
         <option value="$PROJECT_DIR$/hm_14_字符串定义和遍历.py" />
         <option value="$PROJECT_DIR$/hm_15_字符串统计操作.py" />
         <option value="$PROJECT_DIR$/hm_16_字符串判断方法.py" />
+        <option value="$PROJECT_DIR$/hm_17_字符串的查找和替换.py" />
+        <option value="$PROJECT_DIR$/hm_18_字符串文本对齐.py" />
+        <option value="$PROJECT_DIR$/hm_19_字符串拆分和拼接.py" />
+        <option value="$PROJECT_DIR$/hm_20_for语法演练.py" />
+        <option value="$PROJECT_DIR$/hm_21_遍历字典的列表.py" />
       </list>
     </option>
   </component>
@@ -124,7 +134,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,6 +145,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -155,8 +165,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.hm_16_字符串判断方法">
-    <configuration name="hm_12_字典的遍历" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.hm_21_遍历字典的列表">
+    <configuration name="hm_17_字符串的查找和替换" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="05_高级数据类型" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,7 +179,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_12_字典的遍历.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_17_字符串的查找和替换.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,7 +188,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hm_13_字典的应用场景" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hm_18_字符串文本对齐" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="05_高级数据类型" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -191,7 +201,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_13_字典的应用场景.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_18_字符串文本对齐.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,7 +210,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hm_14_字符串定义和遍历" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hm_19_字符串拆分和拼接" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="05_高级数据类型" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -213,7 +223,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_14_字符串定义和遍历.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_19_字符串拆分和拼接.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,7 +232,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hm_15_字符串统计操作" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hm_20_for语法演练" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="05_高级数据类型" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -235,7 +245,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_15_字符串统计操作.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_20_for语法演练.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,7 +254,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hm_16_字符串判断方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hm_21_遍历字典的列表" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="05_高级数据类型" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -257,7 +267,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_16_字符串判断方法.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_21_遍历字典的列表.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,19 +277,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.hm_12_字典的遍历" />
-      <item itemvalue="Python.hm_13_字典的应用场景" />
-      <item itemvalue="Python.hm_14_字符串定义和遍历" />
-      <item itemvalue="Python.hm_15_字符串统计操作" />
-      <item itemvalue="Python.hm_16_字符串判断方法" />
+      <item itemvalue="Python.hm_17_字符串的查找和替换" />
+      <item itemvalue="Python.hm_18_字符串文本对齐" />
+      <item itemvalue="Python.hm_19_字符串拆分和拼接" />
+      <item itemvalue="Python.hm_20_for语法演练" />
+      <item itemvalue="Python.hm_21_遍历字典的列表" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.hm_16_字符串判断方法" />
-        <item itemvalue="Python.hm_15_字符串统计操作" />
-        <item itemvalue="Python.hm_14_字符串定义和遍历" />
-        <item itemvalue="Python.hm_13_字典的应用场景" />
-        <item itemvalue="Python.hm_12_字典的遍历" />
+        <item itemvalue="Python.hm_21_遍历字典的列表" />
+        <item itemvalue="Python.hm_20_for语法演练" />
+        <item itemvalue="Python.hm_19_字符串拆分和拼接" />
+        <item itemvalue="Python.hm_18_字符串文本对齐" />
+        <item itemvalue="Python.hm_17_字符串的查找和替换" />
       </list>
     </recent_temporary>
   </component>
@@ -298,14 +308,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="934" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25404313" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26212937" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32992327" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32992327" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39897698" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -437,8 +446,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hm_16_字符串判断方法.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_17_字符串的查找和替换.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_18_字符串文本对齐.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_19_字符串拆分和拼接.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_20_for语法演练.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_21_遍历字典的列表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" lean-forward="true" selection-end-line="19" />
         </state>
       </provider>
     </entry>
