@@ -21,6 +21,8 @@
       <change afterPath="$PROJECT_DIR$/hm_16_静态方法.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hm_17_方法综合案例.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hm_18___new__方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_19_单例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm_20_单例初始化一次.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../08_面向对象基础/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../08_面向对象基础/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,16 +46,18 @@
     <SUITE FILE_PATH="coverage/09_$hm_15_.coverage" NAME="hm_15_类方法 Coverage Results" MODIFIED="1538969940967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/09_$hm_05_.coverage" NAME="hm_05_覆盖父类方法 Coverage Results" MODIFIED="1538951541950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/09_$hm_17_.coverage" NAME="hm_17_方法综合案例 Coverage Results" MODIFIED="1538973697229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/09_$hm_19_.coverage" NAME="hm_19_单例 Coverage Results" MODIFIED="1538979855366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/09_$hm_11_.coverage" NAME="hm_11_多态案例 Coverage Results" MODIFIED="1538962793954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/09_$hm_04_.coverage" NAME="hm_04_继承的传递性注意事项 Coverage Results" MODIFIED="1538920686303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/09_$hm_06_.coverage" NAME="hm_06_扩展父类方法 Coverage Results" MODIFIED="1538952762227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/09_$hm_12_.coverage" NAME="hm_12_类属性 Coverage Results" MODIFIED="1538967828217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/09_$hm_20_.coverage" NAME="hm_20_单例初始化一次 Coverage Results" MODIFIED="1538980238679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-23536655">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.opened" value="2" />
@@ -62,22 +66,22 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="35" />
-          <entry key="py" value="3358" />
+          <entry key="py" value="3926" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="3393" />
+          <entry key="Python" value="3961" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="23" />
+          <entry key="py" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="23" />
+          <entry key="Python" value="27" />
         </counts>
       </usages-collector>
     </session>
@@ -85,14 +89,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hm_18___new__方法.py">
+        <entry file="file://$PROJECT_DIR$/hm_20_单例初始化一次.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="59">
-              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-              <folding>
-                <marker date="1538979151980" expanded="true" signature="65:74" ph="..." />
-                <marker date="1538979151980" expanded="true" signature="65:245" ph="..." />
-              </folding>
+            <state relative-caret-position="293">
+              <caret line="17" column="18" selection-end-line="29" />
             </state>
           </provider>
         </entry>
@@ -130,6 +130,8 @@
         <option value="$PROJECT_DIR$/hm_16_静态方法.py" />
         <option value="$PROJECT_DIR$/hm_17_方法综合案例.py" />
         <option value="$PROJECT_DIR$/hm_18___new__方法.py" />
+        <option value="$PROJECT_DIR$/hm_19_单例.py" />
+        <option value="$PROJECT_DIR$/hm_20_单例初始化一次.py" />
       </list>
     </option>
   </component>
@@ -183,51 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.hm_18___new__方法">
-    <configuration name="hm_14_使用对象名访问类属性的问题" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="09_面向对象特性" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_14_使用对象名访问类属性的问题.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="hm_15_类方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="09_面向对象特性" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_15_类方法.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.hm_20_单例初始化一次">
     <configuration name="hm_16_静态方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="09_面向对象特性" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -294,20 +252,64 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="hm_19_单例" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="09_面向对象特性" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_19_单例.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hm_20_单例初始化一次" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="09_面向对象特性" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_20_单例初始化一次.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.hm_14_使用对象名访问类属性的问题" />
-      <item itemvalue="Python.hm_15_类方法" />
       <item itemvalue="Python.hm_16_静态方法" />
       <item itemvalue="Python.hm_17_方法综合案例" />
       <item itemvalue="Python.hm_18___new__方法" />
+      <item itemvalue="Python.hm_19_单例" />
+      <item itemvalue="Python.hm_20_单例初始化一次" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.hm_20_单例初始化一次" />
+        <item itemvalue="Python.hm_19_单例" />
         <item itemvalue="Python.hm_18___new__方法" />
         <item itemvalue="Python.hm_17_方法综合案例" />
         <item itemvalue="Python.hm_16_静态方法" />
-        <item itemvalue="Python.hm_15_类方法" />
-        <item itemvalue="Python.hm_14_使用对象名访问类属性的问题" />
       </list>
     </recent_temporary>
   </component>
@@ -326,14 +328,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="934" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25404313" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25404313" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32992327" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32992327" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -527,19 +528,36 @@
     </entry>
     <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1243095857/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="778" column="8" selection-start-line="778" selection-start-column="8" selection-end-line="778" selection-end-column="8" />
+        <state relative-caret-position="-13">
+          <caret line="705" column="16" selection-start-line="705" selection-start-column="16" selection-end-line="705" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hm_18___new__方法.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        <state relative-caret-position="336">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
           <folding>
             <marker date="1538979151980" expanded="true" signature="65:74" ph="..." />
             <marker date="1538979151980" expanded="true" signature="65:245" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_19_单例.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="14" lean-forward="true" selection-end-line="19" />
+          <folding>
+            <marker date="1538979855194" expanded="true" signature="46:51" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hm_20_单例初始化一次.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="17" column="18" selection-end-line="29" />
         </state>
       </provider>
     </entry>
