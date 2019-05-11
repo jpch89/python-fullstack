@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <script src="jquery-3.4.1.js"></script>
+</head>
+<body>
+    <button>点我隐藏</button>
+    <script>
+        // DOM 方式
+        /*var tag = document.getElementsByTagName("button")[0]
+        tag.onclick = function () {
+            tag.style.display = "none";
+        };*/
+
+        // jQuery 方式
+        $(document).ready(function () {
+            $("button").click(
+                function () {
+                    $(this).hide();
+                }
+            );
+        });
+    </script>
+</body>
+</html>

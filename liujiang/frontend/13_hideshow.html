@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <script src="jquery-3.4.1.js"></script>
+</head>
+<body>
+    <p>1</p>
+    <p>2</p>
+    <p>3</p>
+    <button id="hide">hide</button>
+    <button id="show">show</button>
+    <button id="toggle">toggle</button>
+    <button id="speed">speed</button>
+    <button id="callback">callback</button>
+    <br>
+    <br>
+    <button id="fadein">fade in</button>
+    <button id="fadeout">fade out</button>
+<script>
+    $(document).ready(function () {
+       $('#hide').click(function () {
+           $('p').hide();
+       });
+       $('#show').click(function(){
+           $('p').show();
+       });
+       $("#toggle").click(function(){
+           $("p").toggle();
+       });
+       $("#speed").click(function(){
+           // 这里写 slow，毫秒数都可以
+           $("p").toggle('fast');
+       });
+       $("#callback").click(function(){
+           // 疑问：为什么弹出了三个警告，是因为有三个 p 元素吗？
+           $("p").toggle(2000, function(){alert('action done!');});
+       });
+
+       // 淡入
+       $("#fadein").click(function(){
+           // 参数跟上面一样
+           $("p").fadeIn('slow');
+       });
+       $("#fadeout").click(function(){
+           $("p").fadeOut('fast');
+       });
+    });
+</script>
+</body>
+</html>

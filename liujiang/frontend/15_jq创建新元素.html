@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script src="jquery-3.4.1.js"></script>
+</head>
+<body>
+    <div>
+        <p>11111</p>
+    </div>
+    <button>点我</button>
+
+    <script>
+        $("button").click(appendText);
+
+        function appendText(){
+            // 用 innerHTML 创建新元素
+            var txt1 = "<p>22222</p>";
+            // 用 jq 创建新元素
+            var txt2 = $("<p></p>").text("33333");
+            // 用 dom 创建新元素
+            var txt3 = document.createElement("p");
+            txt3.innerHTML = "44444";
+            $("div").append(txt1, txt2, txt3);
+        }
+    </script>
+</body>
+</html>
